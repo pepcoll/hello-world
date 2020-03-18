@@ -1,3 +1,5 @@
 # hello-world
 First Github experience repository
-Añadido algo
+=======
+I'm learning how to use Git. Growing, changing, improving.
+
